@@ -1,0 +1,28 @@
+#title {
+    color: #FFFFFF;
+    background: #E91E63;
+    border-radius: 2px;
+}
+
+form {
+    padding: 8px;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+#boton{
+    padding: 6px;
+    color:#00897B;
+    background: #ffffff;
+    border: 0 solid #FFF;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.24s;
+    cursor: pointer;
+}
+#boton:hover {
+    color: #ffffff;
+    background: #00897B;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
